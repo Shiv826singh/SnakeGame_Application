@@ -50,12 +50,14 @@ A classic Snake Game built using Java Swing with smooth controls, dynamic speed,
 ## 📸 Screenshots
 
 *Add your game screenshots here*
+<img width="1024" height="888" alt="Screenshot (972)" src="https://github.com/user-attachments/assets/bc3fc957-6b0a-4252-983b-d3c9402da257" />
+<img width="1035" height="906" alt="Screenshot (973)" src="https://github.com/user-attachments/assets/4fb09e12-62e4-4a4c-b8fc-e7da6dcf9243" />
+
 
 ---
 
 ## 🚀 Future Improvements
 
-* 🔊 Sound effects
 * 🎮 Start menu screen
 * 💾 Save high score permanently
 * 🧱 Obstacles / levels
